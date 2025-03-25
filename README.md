@@ -55,6 +55,8 @@
 ## 🚀 Instagram Automation Software
 - **Tech Stack:** Python (Windows & Mac)
 - Automates Instagram tasks efficiently with multi-platform support.
+- Programmed to send bulk messages to Instagram profile followers
+- LIVE REPO - https://github.com/ghvst-programmer/instagram-automation-software
 - <img width="544" alt="igb" src="https://github.com/user-attachments/assets/85c7f5df-6783-4fed-a4f8-98180039399d" />
 
 
