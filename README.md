@@ -11,6 +11,7 @@
 - 🛠️ Always exploring new projects and improving my skills
 - 🎓 I have a Bachelor's degree in **Management Science**
 
+<br>
 
 
 ## 🚀 Tech Stack:
@@ -22,6 +23,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+<br>
 
 ### Web Development:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -47,7 +50,8 @@
 - <img width="568" alt="gm1" src="https://github.com/user-attachments/assets/12dc3a41-80cd-4505-9d17-c4e012c86b69" />
 <br>
 <br>
-    
+<br>
+
 
 ## 🚀 Instagram Automation Software
 - **Tech Stack:** Python (Windows & Mac)
@@ -55,36 +59,36 @@
 - Programmed to send bulk messages to Instagram profile followers
 - LIVE REPO - https://github.com/ghvst-programmer/instagram-automation-software
 - <img width="544" alt="igb" src="https://github.com/user-attachments/assets/85c7f5df-6783-4fed-a4f8-98180039399d" />
-
-
-
+<br>
+<br>
+<br>
 
 ## 💬 Web App AI Chatbot
 - **Tech Stack:** React, Express, Node.js
 - Intelligent chatbot with real-time messaging and web deployment.
 - LIVE URL - https://ghvst-chatbot-ai.netlify.app/
 - <img width="309" alt="chgg" src="https://github.com/user-attachments/assets/3d352dc5-c146-478d-beed-fa00b66f4a8e" />
-
-
-
+<br>
+<br>
+<br>
 
 ## 💳 PayPal Clone Login Page
 - **Tech Stack:** HTML, CSS, JS, PHP
 - Secure authentication interface modeled after PayPal login UI.
 - LIVE URL - https://pp-clone-script.netlify.app/
 - <img width="707" alt="pp" src="https://github.com/user-attachments/assets/b88f368e-0b00-403e-b170-6bdf381afc82" />
-
-
-
+<br>
+<br>
+<br>
 
 ## 💰 Phantom Payment dApp
 - **Tech Stack:** React, Solidity, Web3
 - Decentralized app for seamless crypto transactions using Phantom wallet integration.
 - LIVE URL - https://phantom-dapps.netlify.app/
 - <img width="953" alt="ph3" src="https://github.com/user-attachments/assets/af820a0a-dcc7-4e0c-ba29-1632c7765b41" />
-
-
----
+<br>
+<br>
+<br>
 
 ## 📫 Connect with Me:
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ghvstprogrammer)
