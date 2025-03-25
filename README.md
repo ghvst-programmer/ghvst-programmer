@@ -9,7 +9,7 @@
 - 💡 Love solving problems through code and contributing to open-source projects
 - 🚀 Passionate about writing **clean**, **efficient**, and **scalable** code
 - 🛠️ Always exploring new projects and improving my skills
-- 🎓 I have a Bachelor's degree in **Management Science**
+- 🎓 I have a Bachelor's degree in **Marketing**
 
 <br>
 
