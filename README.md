@@ -49,10 +49,14 @@
 - <img width="568" alt="gm1" src="https://github.com/user-attachments/assets/12dc3a41-80cd-4505-9d17-c4e012c86b69" />
 
 
+
+
 ### 🚀 Instagram Automation Software
 - **Tech Stack:** Python (Windows & Mac)
 - Automates Instagram tasks efficiently with multi-platform support.
 - <img width="544" alt="igb" src="https://github.com/user-attachments/assets/85c7f5df-6783-4fed-a4f8-98180039399d" />
+
+
 
 
 ### 💬 Web App AI Chatbot
@@ -61,10 +65,14 @@
 - <img width="309" alt="chgg" src="https://github.com/user-attachments/assets/3d352dc5-c146-478d-beed-fa00b66f4a8e" />
 
 
+
+
 ### 💳 PayPal Clone Login Page
 - **Tech Stack:** HTML, CSS, JS, PHP
 - Secure authentication interface modeled after PayPal login UI.
 - <img width="707" alt="pp" src="https://github.com/user-attachments/assets/b88f368e-0b00-403e-b170-6bdf381afc82" />
+
+
 
 
 ### 💰 Phantom Payment dApp
