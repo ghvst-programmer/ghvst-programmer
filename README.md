@@ -51,7 +51,7 @@
 
 
 
-### 🚀 Instagram Automation Software
+## 🚀 Instagram Automation Software
 - **Tech Stack:** Python (Windows & Mac)
 - Automates Instagram tasks efficiently with multi-platform support.
 - <img width="544" alt="igb" src="https://github.com/user-attachments/assets/85c7f5df-6783-4fed-a4f8-98180039399d" />
@@ -59,7 +59,7 @@
 
 
 
-### 💬 Web App AI Chatbot
+## 💬 Web App AI Chatbot
 - **Tech Stack:** React, Express, Node.js
 - Intelligent chatbot with real-time messaging and web deployment.
 - <img width="309" alt="chgg" src="https://github.com/user-attachments/assets/3d352dc5-c146-478d-beed-fa00b66f4a8e" />
@@ -67,7 +67,7 @@
 
 
 
-### 💳 PayPal Clone Login Page
+## 💳 PayPal Clone Login Page
 - **Tech Stack:** HTML, CSS, JS, PHP
 - Secure authentication interface modeled after PayPal login UI.
 - <img width="707" alt="pp" src="https://github.com/user-attachments/assets/b88f368e-0b00-403e-b170-6bdf381afc82" />
@@ -75,7 +75,7 @@
 
 
 
-### 💰 Phantom Payment dApp
+## 💰 Phantom Payment dApp
 - **Tech Stack:** React, Solidity, Web3
 - Decentralized app for seamless crypto transactions using Phantom wallet integration.
 - <img width="953" alt="ph3" src="https://github.com/user-attachments/assets/af820a0a-dcc7-4e0c-ba29-1632c7765b41" />
