@@ -43,6 +43,12 @@
 
 ## 📌 Notable Projects:
 
+### 🎮 Word Guess Game
+- **Tech Stack:** Python, JavaScript, Flask
+- Fun and interactive word guessing game with hints and engaging UI.
+- <img width="568" alt="gm1" src="https://github.com/user-attachments/assets/12dc3a41-80cd-4505-9d17-c4e012c86b69" />
+
+
 ### 🚀 Instagram Automation Software
 - **Tech Stack:** Python (Windows & Mac)
 - Automates Instagram tasks efficiently with multi-platform support.
@@ -53,12 +59,6 @@
 - **Tech Stack:** React, Express, Node.js
 - Intelligent chatbot with real-time messaging and web deployment.
 - <img width="309" alt="chgg" src="https://github.com/user-attachments/assets/3d352dc5-c146-478d-beed-fa00b66f4a8e" />
-
-
-### 🎮 Word Guess Game
-- **Tech Stack:** Python, JavaScript, Flask
-- Fun and interactive word guessing game with hints and engaging UI.
-- <img width="568" alt="gm1" src="https://github.com/user-attachments/assets/12dc3a41-80cd-4505-9d17-c4e012c86b69" />
 
 
 ### 💳 PayPal Clone Login Page
