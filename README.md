@@ -1,4 +1,4 @@
-# ʜɪ, ɪ'ᴍ ᴏʟᴀꜱᴜɴᴋᴀɴᴍɪ ᴏʟᴀᴡᴀʟᴇ! 👋
+# 𝐇𝐢, 𝐈'𝐦 𝐎𝐥𝐚𝐬𝐮𝐧𝐤𝐚𝐧𝐦𝐢 𝐎𝐥𝐚𝐰𝐚𝐥𝐞! 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&size=25&center=true&vCenter=true&lines=Software+Developer;Passionate+Coder;Open-Source+Enthusiast)
 
