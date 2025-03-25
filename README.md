@@ -85,7 +85,7 @@
 <br>
 
 ## 💰 Phantom Payment dApp
-- **Tech Stack:** React, Solidity, Web3
+- **Tech Stack:** React, Web3
 - Decentralized app for seamless crypto transactions using Phantom wallet integration.
 - LIVE URL - https://phantom-dapps.netlify.app/
 - <img width="953" alt="ph3" src="https://github.com/user-attachments/assets/af820a0a-dcc7-4e0c-ba29-1632c7765b41" />
