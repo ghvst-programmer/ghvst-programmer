@@ -55,7 +55,16 @@
 <br>
 <br>
 
+## Voice AI Project
+- Tech stack: Javascript, API
+- A voice AI project that enables male and female voices from twext to speech functionality.
+- LIVE URL - https://ghvst-voice-ai-project.netlify.app/
+- <img width="879" alt="vai" src="https://github.com/user-attachments/assets/0caa1118-215f-4dbb-a83b-5c3bc957bfe4" />
+<br>
+<br>
+<br>
 
+  >
 ## 🚀 Instagram Automation Software
 - **Tech Stack:** Python (Windows & Mac)
 - Automates Instagram tasks efficiently with multi-platform support.
