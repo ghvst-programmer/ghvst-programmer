@@ -46,7 +46,7 @@
 
 ## 📌 Notable Projects:
 
-## 🎮 Dating website
+## ❤️ Dating website
 - **Tech Stack:** PHP
 - An official functional dating website, fully functional.
 - LIVE URL - https://hottymeey.online
