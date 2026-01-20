@@ -49,7 +49,7 @@
 ## ❤️ Dating website
 - **Tech Stack:** PHP
 - An official functional dating website, fully functional.
-- LIVE URL - https://hottymeey.online
+- LIVE URL - https://hottymeet.online
 -  ![mmm](https://github.com/user-attachments/assets/62ac4180-b652-4941-a028-e18bded55cfc)
 <br>
 <br>
