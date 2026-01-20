@@ -49,7 +49,7 @@
 ## 🎮 Dating website
 - **Tech Stack:** PHP
 - An official functional dating website, fully functional.
-- LIVE URL - https:/hottymeey.online/
+- LIVE URL - https://hottymeey.online
 -  ![mmm](https://github.com/user-attachments/assets/62ac4180-b652-4941-a028-e18bded55cfc)
 <br>
 <br>
@@ -119,7 +119,7 @@
 ## 📫 Connect with Me:
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ghvstprogrammer)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ghvstprogrammer)
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://ghvst-bot.com)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://x.com/ghvstprogrammer)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghvstprogrammer@gmail.com)
 
 ---
