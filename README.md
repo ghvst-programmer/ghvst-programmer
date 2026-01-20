@@ -46,14 +46,34 @@
 
 ## 📌 Notable Projects:
 
-## 🎮 Word Guess Game
-- **Tech Stack:** Python, JavaScript, Flask
-- Fun and interactive word guessing game with hints and engaging UI.
-- LIVE URL - https://word-guess-game-flame.vercel.app/
-- <img width="568" alt="gm1" src="https://github.com/user-attachments/assets/12dc3a41-80cd-4505-9d17-c4e012c86b69" />
+## 🎮 Dating website
+- **Tech Stack:** PHP
+- An official functional dating website, fully functional.
+- LIVE URL - https:/hottymeey.online/
+-  ![mmm](https://github.com/user-attachments/assets/62ac4180-b652-4941-a028-e18bded55cfc)
 <br>
 <br>
 <br>
+
+## 💰 Phantom Payment dApp
+- **Tech Stack:** React
+- Decentralized app for seamless crypto transactions using Phantom wallet integration.
+- LIVE URL - https://phantom-dapps.netlify.app/
+- <img width="953" alt="ph3" src="https://github.com/user-attachments/assets/af820a0a-dcc7-4e0c-ba29-1632c7765b41" />
+<br>
+<br>
+<br>
+
+## 🚀 Instagram Automation Software
+- **Tech Stack:** Python (Windows & Mac)
+- Automates Instagram tasks efficiently with multi-platform support.
+- Programmed to send bulk messages to Instagram profile followers
+- LIVE REPO - https://github.com/ghvst-programmer/instagram-automation-software
+- <img width="544" alt="igb" src="https://github.com/user-attachments/assets/85c7f5df-6783-4fed-a4f8-98180039399d" />
+<br>
+<br>
+<br>
+
 
 ## Voice AI Project
 - Tech stack: Javascript, API
@@ -64,16 +84,8 @@
 <br>
 <br>
 
-  >
-## 🚀 Instagram Automation Software
-- **Tech Stack:** Python (Windows & Mac)
-- Automates Instagram tasks efficiently with multi-platform support.
-- Programmed to send bulk messages to Instagram profile followers
-- LIVE REPO - https://github.com/ghvst-programmer/instagram-automation-software
-- <img width="544" alt="igb" src="https://github.com/user-attachments/assets/85c7f5df-6783-4fed-a4f8-98180039399d" />
-<br>
-<br>
-<br>
+  
+
 
 ## 💬 Web App AI Chatbot
 - **Tech Stack:** React, Express, Node.js
@@ -93,14 +105,16 @@
 <br>
 <br>
 
-## 💰 Phantom Payment dApp
-- **Tech Stack:** React
-- Decentralized app for seamless crypto transactions using Phantom wallet integration.
-- LIVE URL - https://phantom-dapps.netlify.app/
-- <img width="953" alt="ph3" src="https://github.com/user-attachments/assets/af820a0a-dcc7-4e0c-ba29-1632c7765b41" />
+## 🎮 Word Guess Game
+- **Tech Stack:** Python, JavaScript, Flask
+- Fun and interactive word guessing game with hints and engaging UI.
+- LIVE URL - https://word-guess-game-flame.vercel.app/
+- <img width="568" alt="gm1" src="https://github.com/user-attachments/assets/12dc3a41-80cd-4505-9d17-c4e012c86b69" />
 <br>
 <br>
 <br>
+
+
 
 ## 📫 Connect with Me:
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ghvstprogrammer)
