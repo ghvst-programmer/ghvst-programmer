@@ -46,11 +46,11 @@
 
 ## 📌 Notable Projects:
 
-## ❤️ Dating website
-- **Tech Stack:** PHP
-- An official functional dating website, fully functional.
-- LIVE URL - https://hottymeet.online
--  ![mmm](https://github.com/user-attachments/assets/62ac4180-b652-4941-a028-e18bded55cfc)
+## 🚀 webgl field simulation
+- **Tech Stack:** ThreeJS WEBGL
+- Real-time GPU field / particle simulation running in the browser using WebGL and Three.js.
+- LIVE REPO - https://github.com/ghvst-programmer/threejs-webgl-field-simulation
+- ![photo_2026-02-07_03-07-45](https://github.com/user-attachments/assets/fdcb3693-f8fb-4833-aa9a-61a683f886b4)
 <br>
 <br>
 <br>
@@ -70,6 +70,15 @@
 - Programmed to send bulk messages to Instagram profile followers
 - LIVE REPO - https://github.com/ghvst-programmer/instagram-automation-software
 - <img width="544" alt="igb" src="https://github.com/user-attachments/assets/85c7f5df-6783-4fed-a4f8-98180039399d" />
+<br>
+<br>
+<br>
+
+## ❤️ Dating website
+- **Tech Stack:** PHP
+- An official functional dating website, fully functional.
+- LIVE URL - https://hottymeet.online
+-  ![mmm](https://github.com/user-attachments/assets/62ac4180-b652-4941-a028-e18bded55cfc)
 <br>
 <br>
 <br>
