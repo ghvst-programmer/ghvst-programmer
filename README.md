@@ -46,6 +46,16 @@
 
 ## 📌 Notable Projects:
 
+## 🚀 X twitter searcher
+- **Tech Stack:** ThreeJS WEBGL
+-  A web tool to instantly search any public X (Twitter) account’s posts by **year** or **month**
+- LIVE URL - https://x-searcher.ghvst-tools.space
+- <img width="587" height="411" alt="elonxxx" src="https://github.com/user-attachments/assets/9bb2dd97-51e9-44bf-bdcb-3b906b5e41ae" />
+<br>
+<br>
+<br>
+
+
 ## 🚀 webgl field simulation
 - **Tech Stack:** ThreeJS WEBGL
 - Real-time GPU field / particle simulation running in the browser using WebGL and Three.js.
