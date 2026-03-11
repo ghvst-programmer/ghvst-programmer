@@ -46,6 +46,17 @@
 
 ## 📌 Notable Projects:
 
+
+## 🚀 WiFi Security Test - Ethical hack
+- **Tech Stack:** Python
+-  A Python-based educational and defensive network security tool. Designed to scan Wi-Fi networks, analyze router security, and monitor connected devices 
+- LIVE URL - https://github.com/ghvst-programmer/WIFI-Security-test
+- <img width="1919" height="995" alt="Screenshot 2026-03-10 165800" src="https://github.com/user-attachments/assets/a26bbf92-e270-4024-a912-8fe795c9f4c1" />
+<br>
+<br>
+<br>
+
+
 ## 🚀 X twitter searcher
 - **Tech Stack:** JS
 -  A web tool to instantly search any public X (Twitter) account’s posts by **year** or **month**
