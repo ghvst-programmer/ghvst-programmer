@@ -95,62 +95,8 @@
 <br>
 <br>
 
-## ❤️ Dating website
-- **Tech Stack:** PHP
-- An official functional dating website, fully functional.
-- LIVE URL - https://hottymeet.online
--  ![mmm](https://github.com/user-attachments/assets/62ac4180-b652-4941-a028-e18bded55cfc)
-<br>
-<br>
-<br>
-
-## 💰 Val Link Generator
-- **Tech Stack:** JS
-- A simple vibe coded val link generator with a sending secret message function
-- LIVE URL - https://high-inflow.space
-- <img width="951" height="412" alt="Screenshot 2026-02-07 000801" src="https://github.com/user-attachments/assets/3f003fd3-2304-4b27-85c6-6a313241c7af" />
-<br>
-<br>
-<br>
-
-## Voice AI Project
-- Tech stack: Javascript, API
-- A voice AI project that enables male and female voices from twext to speech functionality.
-- LIVE URL - https://ghvst-voice-ai-project.netlify.app/
-- <img width="879" alt="vai" src="https://github.com/user-attachments/assets/0caa1118-215f-4dbb-a83b-5c3bc957bfe4" />
-<br>
-<br>
-<br>
-
-  
 
 
-## 💬 Web App AI Chatbot
-- **Tech Stack:** React, Express, Node.js
-- Intelligent chatbot with real-time messaging and web deployment.
-- LIVE URL - https://ghvst-chatbot-ai.netlify.app/
-- <img width="309" alt="chgg" src="https://github.com/user-attachments/assets/3d352dc5-c146-478d-beed-fa00b66f4a8e" />
-<br>
-<br>
-<br>
-
-## 💳 PayPal Clone Login Page
-- **Tech Stack:** HTML, CSS, JS, PHP
-- Secure authentication interface modeled after PayPal login UI.
-- LIVE URL - https://pp-clone-script.netlify.app/
-- <img width="707" alt="pp" src="https://github.com/user-attachments/assets/b88f368e-0b00-403e-b170-6bdf381afc82" />
-<br>
-<br>
-<br>
-
-## 🎮 Word Guess Game
-- **Tech Stack:** Python, JavaScript, Flask
-- Fun and interactive word guessing game with hints and engaging UI.
-- LIVE URL - https://word-guess-game-flame.vercel.app/
-- <img width="568" alt="gm1" src="https://github.com/user-attachments/assets/12dc3a41-80cd-4505-9d17-c4e012c86b69" />
-<br>
-<br>
-<br>
 
 
 
