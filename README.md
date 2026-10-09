@@ -67,6 +67,14 @@
 <br>
 <br>
 
+## Beauty Cosmetics Store
+- **Tech stack:** React, NodeJS
+-  A beauty cosmetics store that fronts all cosmetics products customized and personally made by brand, website handling worldwide sales
+-  LIVE URL - https://www.brownie-cosmetics.store
+
+<br>
+<br>
+<br>
 
 ## 🚀 WiFi Security Test - Ethical hack
 - **Tech Stack:** Python
