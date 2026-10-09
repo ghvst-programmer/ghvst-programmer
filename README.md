@@ -50,7 +50,7 @@
 - **Tech stack:** React, Python
 -  A virtual sms activations and proxies website to provide sms activations across multiple countries, same as proxies.
 -  LIVE URL - https://the99planet.com
-
+<img width="1290" height="584" alt="image" src="https://github.com/user-attachments/assets/01337c8d-95e7-4873-8e57-f7040924265b" />
 <br>
 <br>
 <br>
@@ -60,9 +60,7 @@
 - **Tech stack:** Typescript, NodeJS
 -  A Location tracking website to fetch target location and personal details
 -  LIVE URL -https://trickygps.evil9planet.online
-
-  
-
+<img width="1290" height="1583" alt="image" src="https://github.com/user-attachments/assets/201078ce-e857-4114-9486-2badc3edacc2" />
 <br>
 <br>
 <br>
@@ -71,7 +69,7 @@
 - **Tech stack:** React, NodeJS
 -  A beauty cosmetics store that fronts all cosmetics products customized and personally made by brand, website handling worldwide sales
 -  LIVE URL - https://www.brownie-cosmetics.store
-
+<img width="1290" height="983" alt="image" src="https://github.com/user-attachments/assets/73880523-a6d9-49bd-b3a3-e787ede08e1c" />
 <br>
 <br>
 <br>
@@ -80,7 +78,7 @@
 - **Tech Stack:** Python
 -  A Python-based educational and defensive network security tool. Designed to scan Wi-Fi networks, analyze router security, and monitor connected devices 
 - LIVE URL - https://github.com/ghvst-programmer/WIFI-Security-test
-- <img width="1919" height="995" alt="Screenshot 2026-03-10 165800" src="https://github.com/user-attachments/assets/a26bbf92-e270-4024-a912-8fe795c9f4c1" />
+ <img width="1919" height="995" alt="Screenshot 2026-03-10 165800" src="https://github.com/user-attachments/assets/a26bbf92-e270-4024-a912-8fe795c9f4c1" />
 <br>
 <br>
 <br>
@@ -90,7 +88,7 @@
 - **Tech Stack:** JS
 -  A web tool to instantly search any public X (Twitter) account’s posts by **year** or **month**
 - LIVE URL - https://x-searcher.ghvst-tools.space
-- <img width="587" height="411" alt="elonxxx" src="https://github.com/user-attachments/assets/9bb2dd97-51e9-44bf-bdcb-3b906b5e41ae" />
+ <img width="587" height="411" alt="elonxxx" src="https://github.com/user-attachments/assets/9bb2dd97-51e9-44bf-bdcb-3b906b5e41ae" />
 <br>
 <br>
 <br>
@@ -100,7 +98,7 @@
 - **Tech Stack:** ThreeJS WEBGL
 - Real-time GPU field / particle simulation running in the browser using WebGL and Three.js.
 - LIVE REPO - https://github.com/ghvst-programmer/threejs-webgl-field-simulation
-- ![photo_2026-02-07_03-07-45](https://github.com/user-attachments/assets/fdcb3693-f8fb-4833-aa9a-61a683f886b4)
+ ![photo_2026-02-07_03-07-45](https://github.com/user-attachments/assets/fdcb3693-f8fb-4833-aa9a-61a683f886b4)
 <br>
 <br>
 <br>
@@ -109,7 +107,7 @@
 - **Tech Stack:** React
 - Decentralized app for seamless crypto transactions using Phantom wallet integration.
 - LIVE URL - https://phantom-dapps.netlify.app/
-- <img width="953" alt="ph3" src="https://github.com/user-attachments/assets/af820a0a-dcc7-4e0c-ba29-1632c7765b41" />
+ <img width="953" alt="ph3" src="https://github.com/user-attachments/assets/af820a0a-dcc7-4e0c-ba29-1632c7765b41" />
 <br>
 <br>
 <br>
@@ -119,7 +117,7 @@
 - Automates Instagram tasks efficiently with multi-platform support.
 - Programmed to send bulk messages to Instagram profile followers
 - LIVE REPO - https://github.com/ghvst-programmer/instagram-automation-software
-- <img width="544" alt="igb" src="https://github.com/user-attachments/assets/85c7f5df-6783-4fed-a4f8-98180039399d" />
+ <img width="544" alt="igb" src="https://github.com/user-attachments/assets/85c7f5df-6783-4fed-a4f8-98180039399d" />
 <br>
 <br>
 <br>
