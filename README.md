@@ -46,8 +46,8 @@
 
 ## 📌 Notable Projects:
 
-## 📲 SMS virtual activations and Proxie
-- **Tech stack:** React, Python
+## 📲 SMS virtual activations and Proxies
+- **Tech stack:** Python, NodeJS
 -  A virtual sms activations and proxies website to provide sms activations across multiple countries, same as proxies.
 -  LIVE URL - https://the99planet.com
 <img width="1290" height="584" alt="image" src="https://github.com/user-attachments/assets/01337c8d-95e7-4873-8e57-f7040924265b" />
