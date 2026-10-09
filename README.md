@@ -4,7 +4,7 @@
 
 ---
 
-## 👨‍💻 About Me:
+## About Me:
 - 📌 I'm confidently smooth in software development, web development and automation
 - 💡 Love solving problems through code and contributing to open-source projects
 - 🚀 Passionate about writing **clean**, **efficient**, and **scalable** code
@@ -45,6 +45,23 @@
 ---
 
 ## 📌 Notable Projects:
+
+## 📲 SMS virtual activations and Proxie
+- **Tech stack:** React, Python
+-  A virtual sms activations and proxies website to provide sms activations across multiple countries, same as proxies.
+-  LIVE URL - https://the99planet.com
+
+<br>
+<br>
+<br>
+
+
+## 🕹️ Location Tracking website
+- **Tech stack:** Typescript, NodeJS
+-  A Location tracking website to fetch target location and personal details
+-  LIVE URL -https://trickygps.evil9planet.online
+  
+
 
 
 ## 🚀 WiFi Security Test - Ethical hack
