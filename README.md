@@ -4,7 +4,7 @@
 
 ---
 
-## Summary:
+## Quick info:
 -  I'm confidently smooth in software development, web development and automation
 -  Love solving problems through code and contributing to open-source projects
 -  Passionate about writing **clean**, **efficient**, and **scalable** code
