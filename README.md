@@ -5,11 +5,11 @@
 ---
 
 ## About Me:
-- 📌 I'm confidently smooth in software development, web development and automation
-- 💡 Love solving problems through code and contributing to open-source projects
-- 🚀 Passionate about writing **clean**, **efficient**, and **scalable** code
-- 🛠️ Always exploring new projects and improving my skills
-- 🎓 I have a Bachelor's degree in **Marketing**
+-  I'm confidently smooth in software development, web development and automation
+-  Love solving problems through code and contributing to open-source projects
+-  Passionate about writing **clean**, **efficient**, and **scalable** code
+-  Always exploring new projects and improving my skills
+-  I have a Bachelor's degree in **Marketing**
 
 <br>
 
